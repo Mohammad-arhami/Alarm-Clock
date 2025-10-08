@@ -21,6 +21,11 @@ body{
     background-color: black;
     font-family: "Poppins", sans-serif;
     font-weight: 700;
+    background-color: rgb(26,33,37); 
+    background-image: url(./Assets/design1.png);
+    background-position: center bottom;
+    background-size: cover; 
+    background-repeat: no-repeat;
 }
 
 
